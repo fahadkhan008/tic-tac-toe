@@ -15,6 +15,10 @@ A responsive and interactive **Tic Tac Toe** game built using **HTML**, **Tailwi
 - Tailwind CSS
 - JavaScript (ES6)
 
+## 🌐 Live Demo
+
+👉 [View Live Project](https://fahadkhan008.github.io/tic-tac-toe/)
+
 ## ▶️ How to Run Locally
 
 1. Clone the repository:
